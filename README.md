@@ -8,7 +8,7 @@ A scoreboard for DarkRP to test out HUD-creation.
 
 Dependencies:
 
-* DarkRP
+- DarkRP
 
 
 
